@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745102658413",
+    "firebase_url": "https://goodcfu-a288d.firebaseio.com",
+    "project_id": "goodcfu-a288d",
+    "storage_bucket": "goodcfu-a288d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745102658413:android:e064263603ab5455",
+        "android_client_info": {
+          "package_name": "com.oscarng.cfu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745102658413-m3fm56992ao455lfg1s3h3im8tsjlttm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3cUkhDEJIywo3bnRNC7PYwJRPrtiftWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745102658413-m3fm56992ao455lfg1s3h3im8tsjlttm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
